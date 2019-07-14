@@ -1,0 +1,6 @@
+<RCC>
+    <qresource>
+        <file>imageOrc/Image1.jpg</file>
+        <file>imageOrc/Image2.ico</file>
+    </qresource>
+</RCC>
